@@ -1,2 +1,1 @@
-# onegiftbet
-onegiftbet betting company
+# Stake-Replica
